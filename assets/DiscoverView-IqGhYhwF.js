@@ -1,0 +1,1 @@
+import{H as a,T as o}from"./Tabbar-DXFAxyDY.js";import{d as r,c as t,e,o as n}from"./index-DUa1lK7r.js";const i=r({__name:"DiscoverView",setup(s){return(c,m)=>(n(),t("main",null,[e(a),e(o)]))}});export{i as default};
